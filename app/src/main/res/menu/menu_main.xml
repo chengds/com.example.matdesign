@@ -12,6 +12,6 @@
         android:id="@+id/action_find_location"
         android:orderInCategory="101"
         android:title="@string/action_find_location"
-        android:icon="@drawable/ic_action_location_found"
+        android:icon="@drawable/ic_gps_fixed_white"
         app:showAsAction="always"/>
 </menu>
